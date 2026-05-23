@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+cyberkeep.db
+.env
+node_modules/
+dist/
+.vite/
+coverage/
+.gitignore
+
